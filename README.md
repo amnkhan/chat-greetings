@@ -5,12 +5,12 @@
 ---
 Hello,
 * I am Al Amin from "Product Personalizer" Support. How can I help you today 😃?
-* Good Morning! I am Al Amin from "Product Personalizer" Support. How can i assist you today 😃? 
+* Good Morning! I am Al Amin from "Product Personalizer" Support. How can I assist you today 😃? 
 
 ### Investigating:
 ---
 * Okay, we are looking at your issue, meanwhile can you please provide your email? Thanks!
-* Please allow me a few moments as i am Investigating whats causing the issue. Thanks for your coporation 
+* Please allow me a few moments as I am Investigating whats causing the issue. Thanks for your coporation 
 * Can you please provide your product link for the product you are facing this issue? Thanks!
 * Are you facing the issue with any other products?
 * Can you please provde a screenshot? It will help us to better understand the problem. 🙏 
