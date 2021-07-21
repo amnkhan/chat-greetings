@@ -10,7 +10,7 @@ Hello,
 ### Investigating:
 ---
 * Okay, we are looking at your issue, meanwhile can you please provide your email? Thanks!
-* Please allow me a few moments as I am Investigating whats causing the issue. Thanks for your coporation 
+* Please allow me a few moments as I am Investigating whats causing the issue. Thanks for your cooperation! 
 * Can you please provide your product link for the product you are facing this issue? Thanks!
 * Are you facing the issue with any other products?
 * Can you please provde a screenshot? It will help us to better understand the problem. 🙏 
