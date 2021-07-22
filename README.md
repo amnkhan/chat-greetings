@@ -20,4 +20,4 @@ Hello,
 * It was my pleasure to solve your issue. Is there anything elase I can do for you?
 * Have a great day 😃!
 * If you face any other issues fell free to contact with us. We are ready to help you anytime. 😃
-* You can aslo help me by spending a minute to rate and review our app 🙏 Thanks in Advance 😍!! Link: https://apps.shopify.com/product-personalizer?#modal-show=ReviewListingModal&ref=zepto-apps
+* You can also help me by spending a minute to rate and review our app 🙏 Thanks in Advance 😍!! Link: https://apps.shopify.com/product-personalizer?#modal-show=ReviewListingModal&ref=zepto-apps
