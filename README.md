@@ -21,3 +21,5 @@ Hello,
 * Have a great day 😃!
 * If you face any other issues fell free to contact with us. We are ready to help you anytime. 😃
 * You can also help me by spending a minute to rate and review our app 🙏 Thanks in Advance 😍!! Link: https://apps.shopify.com/product-personalizer?#modal-show=ReviewListingModal&ref=zepto-apps
+* Positive reviews from awesome customers like you help others to feel confident about choosing Product Personalizer too. Could you take 60 seconds to go to https://apps.shopify.com/product-personalizer?#modal-show=ReviewListingModal&ref=zepto-apps and share your happy experiences?
+We will be forever grateful. Thank you in advance for helping us out!
